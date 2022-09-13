@@ -1,10 +1,11 @@
-usual:
+# usual:
 
 ### npm install
 
 ### npm run dev
 
-optional:
+
+# optional:
 
 ### npm i -g npm-check-updates
 
